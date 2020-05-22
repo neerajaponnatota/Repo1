@@ -20,7 +20,7 @@ import com.NewTours.Weblocators.NewToursHomepageLocators;
 import com.NewTours.Weblocators.NewToursLocators;
 
 import org.testng.Assert;
-
+//Main Testcases
 public class NewTest {
 	
 WebDriver driver;	
